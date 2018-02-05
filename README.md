@@ -17,8 +17,8 @@
 [Introduction to Linear Algebra, Fifth Edition (2016)](http://math.mit.edu/~gs/linearalgebra/)
 
 ## Overview
-[.txt](./Linear\sAlgerba/linear_algebra_summaries.md)
-[.pdf](./Linear\sAlgerba/linear_algebra_overview.pdf)
+[.txt](./Linear%20Algerba/linear_algebra_summaries.md)
+[.pdf](./Linear%20Algerba/linear_algebra_overview.pdf)
 
 
 # Machine Learning
@@ -33,4 +33,4 @@
 None
 
 ## Overview
-[.pdf](./Machine\sLearning/Deep\sLearning\sTutorial.pdf)
+[.pdf](./Machine%20Learning/Deep%20Learning%20Tutorial.pdf)
