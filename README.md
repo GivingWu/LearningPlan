@@ -4,9 +4,13 @@
 ## Video
 [网易公开课 > 可汗学院 > 可汗学院公开课：线性代数](http://open.163.com/special/Khan/linearalgebra.html)
 
+sixth class
+
 # Calculus
+
 ## Video
 [网易公开课 > 可汗学院 > 可汗学院公开课：微积分预备](http://open.163.com/special/Khan/precalculus.html)
+
 [网易公开课 > 可汗学院 > 可汗学院公开课：微积分预备2](https://open.163.com/movie/2018/1/5/K/MD6N3N9A5_MD6N3PJ5K.html)
 
 # Linear Algerba
@@ -22,6 +26,7 @@
 
 ## Overview
 [.txt](./Linear%20Algerba/linear_algebra_summaries.md)
+
 [.pdf](./Linear%20Algerba/linear_algebra_overview.pdf)
 
 
