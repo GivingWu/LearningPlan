@@ -2,7 +2,7 @@
 # Triangles
 
 ## Video
-[网易公开课 > 可汗学院 > 可汗学院公开课：三角学](http://open.163.com/special/Khan/trigonometry.html) 7th
+[网易公开课 > 可汗学院 > 可汗学院公开课：三角学](http://open.163.com/special/Khan/trigonometry.html) 12th
 
 # Matrix
 
