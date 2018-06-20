@@ -1,8 +1,15 @@
 
+# For all
+
+总的来讲，我觉得自己更喜欢 Crash Course，或者 Make it by self 这类的课程。两个极端，两个量级。
+
 # Triangles
 
 ## Video
 [网易公开课 > 可汗学院 > 可汗学院公开课：三角学](http://open.163.com/special/Khan/trigonometry.html) 12th
+
+# Computer Science
+[bilibili > 【计算机科学速成课】[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/av21376839/?p=15) 15th
 
 # Matrix
 
@@ -13,9 +20,12 @@
 # Calculus
 
 ## Video
+[bilibili >【官方双语/合集】微积分的本质](https://www.bilibili.com/video/av24325548)
+
 [网易公开课 > 可汗学院 > 可汗学院公开课：微积分预备](http://open.163.com/special/Khan/precalculus.html)
 
 [网易公开课 > 可汗学院 > 可汗学院公开课：微积分预备2](https://open.163.com/movie/2018/1/5/K/MD6N3N9A5_MD6N3PJ5K.html)
+
 
 # Linear Algerba
 
